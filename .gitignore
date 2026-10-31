@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 手元の秘密情報・設定（コミットしない）
+*.local.*
+.env
+.clasprc.json
+
+# 依存パッケージ
+node_modules/
